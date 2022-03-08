@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project contains native features like camera. I wanted to add Location also but I couldn't find  Google maps Api for free .It requires billing account.
 
 A few resources to get you started if this is your first Flutter project:
 
